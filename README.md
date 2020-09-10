@@ -1,4 +1,4 @@
-### Hello Every One [![HitCount](http://hits.dwyl.com/SeonHyungJo/SeonHyungJo/SeonHyungJo.svg)](http://hits.dwyl.com/SeonHyungJo/SeonHyungJo/SeonHyungJo)
+### Hello Every One [![HitCount](http://hits.dwyl.com/SeonHyungJo/SeonHyungJo.svg)](http://hits.dwyl.com/SeonHyungJo/SeonHyungJo)
 
 ---
 

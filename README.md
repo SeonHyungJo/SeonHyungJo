@@ -11,7 +11,7 @@ My Study Main Repo
 This Month - New Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=metatag-generator-for-notion&theme=dracula)](https://github.com/SeonHyungJo/metatag-generator-for-notion)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=FE-Dev-Note&theme=dracula)](https://github.com/SeonHyungJo/FE-Dev-Note)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=FrontEnd-Note&theme=dracula)](https://github.com/SeonHyungJo/FrontEnd-Note)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Javascript-Book&theme=dracula)](https://github.com/SeonHyungJo/Javascript-Book)
 
 ---

@@ -5,6 +5,7 @@
 My Study Main Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=im-d-team&repo=Dev-Docs&theme=dracula)](https://github.com/im-d-team/Dev-Docs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=im-d-team&repo=Dev-Contents-House&theme=dracula)](https://github.com/im-d-team/Dev-Contents-House)
 
 ---
 

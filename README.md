@@ -12,6 +12,7 @@ My Study Main Repo
 This Month - New Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=preact-vite__discussions&theme=dracula)](https://github.com/SeonHyungJo/preact-vite__discussions)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=preact-swr&theme=dracula)](https://github.com/SeonHyungJo/preact-swr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Where-is-my-home&theme=dracula)](https://github.com/SeonHyungJo/Where-is-my-home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=FrontEnd-Note&theme=dracula)](https://github.com/SeonHyungJo/FrontEnd-Note)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Javascript-Book&theme=dracula)](https://github.com/SeonHyungJo/Javascript-Book)

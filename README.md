@@ -1,26 +1,22 @@
-### Hello Every One [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHyungJo&count_bg=%2379C83D&title_bg=%23555555&icon=deno.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello Every One [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHyungJo&count_bg=%2379C83D&title_bg=%23555555&icon=deno.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
-My Study Main Repo
+## My Study Main Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=im-d-team&repo=Dev-Docs&theme=dracula)](https://github.com/im-d-team/Dev-Docs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=im-d-team&repo=Dev-Contents-House&theme=dracula)](https://github.com/im-d-team/Dev-Contents-House)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=FrontEnd-Note&theme=dracula)](https://github.com/SeonHyungJo/FrontEnd-Note)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Javascript-Book&theme=dracula)](https://github.com/SeonHyungJo/Javascript-Book)
 
 ---
 
-This Month - New Repo
+## This Month - New Repo
+
+---
+
+## Preact Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=preact-vite__discussions&theme=dracula)](https://github.com/SeonHyungJo/preact-vite__discussions)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=preact-swr&theme=dracula)](https://github.com/SeonHyungJo/preact-swr)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=preact-wouter&theme=dracula)](https://github.com/SeonHyungJo/preact-wouter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Where-is-my-home&theme=dracula)](https://github.com/SeonHyungJo/Where-is-my-home)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=FrontEnd-Note&theme=dracula)](https://github.com/SeonHyungJo/FrontEnd-Note)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Javascript-Book&theme=dracula)](https://github.com/SeonHyungJo/Javascript-Book)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Canvas-STEP&theme=dracula)](https://github.com/SeonHyungJo/Canvas-STEP)
-
----
-
-React Repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=reactjs-interview-questions-korean&theme=dracula)](https://github.com/SeonHyungJo/reactjs-interview-questions-korean)

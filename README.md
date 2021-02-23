@@ -20,7 +20,7 @@
 
 ## New Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=react-notion-test&theme=dracula)](https://github.com/im-d-team/react-notion-test)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=react-notion-test&theme=dracula)](https://github.com/SeonHyungJo/react-notion-test)
 
 ---
 

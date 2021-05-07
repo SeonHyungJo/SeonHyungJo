@@ -11,8 +11,7 @@
 
 ## New Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=notion-site&theme=dracula)](https://github.com/SeonHyungJo/notion-site)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=notion-api-worker&theme=dracula)](https://github.com/SeonHyungJo/notion-api-worker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SeonHyungJo&repo=Dev-Docs-Slide&theme=dracula)](https://github.com/SeonHyungJo/Dev-Docs-Slide)
 
 ---
 

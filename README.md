@@ -4,7 +4,7 @@
 
 신사업 프론트엔드 개발자분을 모십니다.
 
-- [원티드](https://www.wanted.co.kr/wd/18744)
+- [공고나 한번보기](https://www.wanted.co.kr/wd/18744)
 
 ## My Study Main Repo
 

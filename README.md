@@ -8,7 +8,7 @@
 
 ## My State
 
-[![sNyung's github stats](https://github-readme-stats.vercel.app/api?username=SeonHyungJo)](https://github.com/SeonHyungJo)
+[![sNyung's github stats](https://github-readme-stats.vercel.app/api?username=SeonHyungJo&show_icons=true&theme=dracula)](https://github.com/SeonHyungJo)
 
 ## My Study Main Repo
 

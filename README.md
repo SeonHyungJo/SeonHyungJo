@@ -6,6 +6,10 @@
 
 - [원티드로 확인하기](https://www.wanted.co.kr/wd/18744)
 
+## My State
+
+[![sNyung's github stats](https://github-readme-stats.vercel.app/api?username=SeonHyungJo)](https://github.com/SeonHyungJo)
+
 ## My Study Main Repo
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=im-d-team&repo=Dev-Docs&theme=dracula)](https://github.com/im-d-team/Dev-Docs)

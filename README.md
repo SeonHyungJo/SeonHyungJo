@@ -1,11 +1,5 @@
 # Hello Every One [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHyungJo&count_bg=%2379C83D&title_bg=%23555555&icon=deno.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 우리 같이 일해요.💪
-
-신사업 프론트엔드 개발자분을 모십니다.
-
-- [원티드로 확인하기](https://www.wanted.co.kr/wd/18744)
-
 ## My State
 
 [![sNyung's github stats](https://github-readme-stats.vercel.app/api?username=SeonHyungJo&show_icons=true&theme=dracula)](https://github.com/SeonHyungJo)

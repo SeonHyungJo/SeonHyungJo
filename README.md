@@ -1,4 +1,4 @@
-# snyung [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHyungJo&count_bg=%2379C83D&title_bg=%23555555&icon=deno.svg&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
+# snyung [![views](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=views&size=small)](https://myhits.vercel.app)
 
 안녕하세요. 프로트엔드 8년차 개발자입니다.
 

@@ -2,6 +2,10 @@
 
 안녕하세요. 9년차 프로트엔드 개발자입니다.
 
+- n8n을 이용한 자동화
+  - 구글 시트와 n8n workflow를 이용하여 다국어 변경사항이 있을 경우 자동으로 PR 올리는 기능
+  - Figma와 n8n workflow를 이용하여 Variables가 변경사항이 있을 경우 자동으로 PR 올리는 기능
+  - Jira와 n8n workflow를 이용하여 issue와 관련된 내용을 수집, 분석하여 Claude Code에서 사용하는 프롬프트 제작하여 comment로 남기는 기능
 - pnpm workspace를 이용한 MonoRepo 구성
   - React를 이용한 Web 기반의 플랫폼 서비스(캐나다 타겟)
   - React-Native를 이용한 Webview 기반의 App 서비스(캐나다 타겟)

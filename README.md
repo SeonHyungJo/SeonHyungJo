@@ -18,7 +18,6 @@
     - [Style Dictionary](https://styledictionary.com/) 형식의 파일을 export 할 수 있는 플로그인 개발
     - Figma Select시 우측에 프로젝트에 사용되는 라이브러리 기반의 컴포넌트를 생성하는 플러그인 개발
     - Style Dictionary 기반의 토큰을 tailwind로 변환하는 자동화 기능 개발
-- Flutter를 이용한 Webview 기반의 서비스
 - 스타트업에서 한 달만에 새로운 서비스(MVP)를 만들고 발전시키고, 투자를 받고 BM(이익을 창출하는 방식)을 만드는 경험 
   - yarn berry를 이용한 MonoRepo 구성
   - 임대인을 위한 웹앱 서비스

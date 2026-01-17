@@ -2,6 +2,7 @@
 
 안녕하세요. 9년차 프로트엔드 개발자입니다.
 
+- [🆕 tax.snyung. 직장인을 위한 계산기 사이트](https://tax.snyung.com)
 - [snyung. 블로그 리메이크](https://snyung.com)
 - n8n을 이용한 자동화
   - 구글 시트와 n8n workflow를 이용하여 다국어 변경사항이 있을 경우 자동으로 PR 올리는 기능

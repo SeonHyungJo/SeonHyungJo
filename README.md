@@ -28,5 +28,5 @@
 ## 📬 유용한 글을 공유 및 작성해요
 
 - [링크드인](https://www.linkedin.com/in/snyung/)
-- [개인 블로그](https://blog.snyung.com)
+- [개인 블로그](https://snyung.com)
 - [페이스북 페이지 - ImDeveloper](https://www.facebook.com/ImDevloper)

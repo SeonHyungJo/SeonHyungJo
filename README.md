@@ -2,6 +2,7 @@
 
 안녕하세요. 9년차 프로트엔드 개발자입니다.
 
+- [🆕 cms.snyung. Google Drive MDX Editor 사이트](https://cms.snyung.com)
 - [🆕 tax.snyung. 직장인을 위한 계산기 사이트](https://tax.snyung.com)
 - [snyung. 블로그 리메이크](https://snyung.com)
 - n8n을 이용한 자동화

@@ -2,7 +2,7 @@
 
 안녕하세요. 9년차 프로트엔드 개발자입니다.
 
-- [trade-pulse.snyung. 자산관리 사이트 - 차곡](https://trade-pulse.snyung.com)
+- [trade.snyung. 자산관리 사이트 - 차곡](https://trade.snyung.com)
 - [cms.snyung. Google Drive MDX Editor 사이트](https://cms.snyung.com)
 - [tax.snyung. 직장인을 위한 계산기 사이트](https://tax.snyung.com)
 - [snyung. 블로그 리메이크](https://snyung.com)
